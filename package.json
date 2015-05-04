@@ -5,7 +5,7 @@
   "version": "0.0.6",
   "repository": {
     "type": "git",
-    "url": "git://github.com/evantahler/browser_fingerprint.git"
+    "url": "git@github.com:Creative-Licence-Digital/browser_fingerprint.github"
   },
   "main": "api",
   "keywords": ["browser", "fingerprint", "session", "browserFingerprint", "browser_fingerprint"],
